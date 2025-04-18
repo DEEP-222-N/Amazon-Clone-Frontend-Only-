@@ -3,4 +3,4 @@ A static clone of Amazon's homepage using HTML and CSS, featuring a navigation b
 
 # Link
 
-https://deep-222-n.github.io/Amazon-Clone-Frontend-Only-/
+https://amazonclonedeep.netlify.app/
